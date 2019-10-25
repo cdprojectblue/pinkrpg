@@ -1,0 +1,9 @@
+hardness lvl
+Hero type
+Custom
+Hero Name
+Hero lvl
+Hero pkt_HP
+Hero pkt_DMG
+Hero pkt_Stamina
+Hero pkt_mana

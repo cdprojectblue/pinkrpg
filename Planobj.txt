@@ -1,0 +1,68 @@
+
+Bohater ma swoje:
+int pkt_zdrowia
+int pkt_ataku
+int pkt_many
+int pkt_staminy
+int lvl
+string nazwa
+
+void zadaj();
+void leczenie();
+void odpocznij();
+void umiejetnosc_spec();
+
+
+
+
+Wrogowie maja swoje:
+int lvl
+int pkt_ataku
+int pkt_zdrowia
+
+void zadaj();
+void umiejetnosc_specjalna();
+
+
+
+
+PRZEDMIOTY:
+
+Bron:
+string type
+int pkt_ataku
+int pkt_wytrzymalosci
+
+void spec();
+void uzbroj();
+void durab();
+void zdejmij();
+
+Armor:
+String type;
+int pkt_tarczy
+int pkt wytrzymalosci
+
+void uzbroj():
+void zdejmij();
+void spec();
+void durab();
+
+
+Dodatki:
+string nazwa
+
+void do();
+
+
+
+Spelle:
+
+void Spell();
+
+
+
+
+
+
+

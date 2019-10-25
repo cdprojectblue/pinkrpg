@@ -1,0 +1,103 @@
+1. Poziom trudnosci
+2. Wybor bohatera
+3.Custom wygladu
+4. Nazwa
+
+5.SWITCH
+1Nowa gra
+2Wczytaj
+3zakoncz
+
+6.SWITCH
+1Przygoda
+2Arena
+3Sklepy
+4Trening
+5Odpoczynek
+6Kasyno
+7Bohater
+7Zapisz gre
+8Zapisz i wyjdz
+
+
+
+
+1Przygoda
+
+Gracz pokonuje kolejne poziomy polegajace na pokonaniu fal wrogow i zdobywa tak doswiadczenie i przedmioty
+
+2Arena
+
+Gracz walczy z przeciwnikami zdobywajac poziom Areny i przedmioty
+
+3Sklepy
+
+Gracz ma do wyboru 4 sklepy Mieczmistrz Zbrojmistrz Mag Leœnik
+
+4Trening
+
+Gracz Przez czas spedzony na Treningu zdobywa doswiadczenie im dluzej jest w trakcie treningu tym szybciej zdobywa doswiadczenie 
+
+5Odpoczynek
+
+Gracz odpoczywa wybrana ilosc czasu i przez to odnawiaja mu sie parametry
+
+6Kasyno
+
+Gracz obstawia na arenie, w ruletce, w grze w kosci
+
+7Bohater
+
+Pokazuje parametry i ekwipunek bohatera
+
+7Zapisz gre
+
+Zapisuje do pliku parametry
+
+8Zapisz i Wyjdz
+
+Zapisuje do pliku i exit(0);
+
+
+
+
+1.PRZYGODA
+
+Wylosuj przeciwników adekwatnych do poziomu bohatera, bohater wybiera akcje: Zaatakuj(mocnyatak,lekkiatak,Specjalne(Dodatki)), Bronsie (Garda,Ucieczka), 
+Po pokonaniu fal wylosowuje itemy ktore dropia za kazda fale switch(graj dalej, wyjdz z przygody)
+
+
+
+2. ARENA
+
+Wylosuj przeciwnika kolejnego do pokonania, bohater walczy tak jak z mobem, po pokonaiu wylosuj item losowy
+
+
+3. SKLEPY
+
+switch() Mieczmistrz, zbrojmistrz, Mag, Lesnik; 
+
+Kazdy z 3 pierwszych pokazuje swoje towary ktore mozna rerollowac za kase
+Lesnik skupuje trash
+
+4. TRENING
+
+Licznik, na koniec sprawdza ile minelo i ile to doswiadczenia ++ Losuje item i masz wybor doswiadczenie/item
+
+5.ODPOCZYNEK
+
+Licznik, ile minelo tyle adekwatnie sie odnawia, pokazuje ile sie odnowi
+
+6.KASYNO
+
+Wybor gry, gry do napisania w oddzielnych funkcjach
+
+7. BOHATER
+
+Wyswietla parametry i ekwipunek
+
+8. ZAPIS
+
+ZApisuje  
+
+
