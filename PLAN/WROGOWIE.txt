@@ -1,0 +1,6 @@
+Wrogowie moby maj¹ swoje:
+Pkt_ataku
+Pkt_zdrowia
+item_drop_1
+item_drop_2
+item_drop_3

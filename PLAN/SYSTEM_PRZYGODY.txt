@@ -1,0 +1,3 @@
+Bohater po kolei przechodzi fabu³ê
+
+fabula jest odczytywana z pliku txt

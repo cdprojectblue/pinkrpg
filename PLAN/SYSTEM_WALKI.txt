@@ -1,0 +1,21 @@
+MOBY:
+Pojawia sie mob poprzez los albo w przygodzie
+
+petla(dopoki ktos nie zdechnie lub ucieknie)
+{
+wybierasz akcje
+atakuje wrog
+}
+
+drop
+
+
+
+LUDZIE:
+Pojawia sie wrog w przygodzie lub na arenie 
+
+petla(dopoki ktos nie zginie/ucieknie/bedzie ponizej 10% swojego hp)
+{
+Atakujesz albo ty albo wrog (los)
+
+}

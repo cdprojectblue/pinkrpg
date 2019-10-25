@@ -1,3 +1,6 @@
 # depslib dependency file v1.0
 1572036504 source:c:\users\dom\desktop\gra\pinkrpg\gra.cpp
 
+1572039315 source:c:\users\dom\desktop\gra\pinkrpg\main.cpp
+	<iostream>
+
