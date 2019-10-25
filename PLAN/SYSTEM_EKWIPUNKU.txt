@@ -1,0 +1,14 @@
+1.zalozone
+-pokazuje co masz
+     1.zdejmij
+     2.wroc
+
+2.ekwipunek 
+
+     1.weapons
+     2.armors
+     3.trash
+
+     odpala sie lista i switch
+     1.zaloz
+     2.wyrzuc

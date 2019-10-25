@@ -4,6 +4,8 @@ pkt_atak
 pkt_staminy
 eq_space //miejsce w eq
 
+void umiejetnosc_specjalna();
+
 
 
 te zmienne maja rozne wartosci w zaleznosci od klasy

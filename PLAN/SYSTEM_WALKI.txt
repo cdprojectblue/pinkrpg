@@ -19,3 +19,6 @@ petla(dopoki ktos nie zginie/ucieknie/bedzie ponizej 10% swojego hp)
 Atakujesz albo ty albo wrog (los)
 
 }
+
+
+Gdy atakujesz caly czas jednym atakiem staje sie on slabszy
