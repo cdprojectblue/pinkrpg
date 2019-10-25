@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    cout << "-----------------------------------PINK RPG------------------------------------" << endl;
     return 0;
 }
